@@ -3,4 +3,4 @@
 **Student Name:** Deshaan W.U.  
 **Index Number:** 230130E  
 **Course:** EN3160 – Computer Vision  
-**University:** University of Moratuwa
+ University of Moratuwa
